@@ -1,0 +1,13 @@
+<!-- url under 'action' -->
+<form action="/process_url"> 
+  <!-- label (correspond to id) -->
+  <label for="zebra">Fruit</label>
+  <!-- default input type = "text" -->
+  <input id="zebra" name="fruit">
+	
+  <label for="giraffe">Color</label>
+  <input id="giraffe" name="color">
+	
+  <!-- need a button -->
+  <button>Submit</button>
+</form>
